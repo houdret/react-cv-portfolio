@@ -31,7 +31,7 @@ const Contact = () => {
             </li>
             <li>
               <i className="far fa-envelope"></i>
-              <CopyToClipboard text="jeanhoudret2006@hotmail.com">
+              <CopyToClipboard text="jeanhoudret@gmail.com">
                 <span
                   className="clickInput"
                   onClick={() => {
@@ -39,7 +39,7 @@ const Contact = () => {
                   }}
                 >
                   {" "}
-                  jeanhoudret2006@hotmail.com
+                  jeanhoudret@gmail.com
                 </span>
               </CopyToClipboard>
             </li>

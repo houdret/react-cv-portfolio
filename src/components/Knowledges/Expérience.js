@@ -8,15 +8,22 @@ const Expérience = () => {
                 <h4>Manutentionnaire - service technique</h4>
                 <h5>2019-2020</h5>
                 <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, ea dolores velit ullam, quod laboriosam consectetur a facere id excepturi voluptates perferendis qui, quae eius quibusdam harum quaerat atque nesciunt.
+                    Entretien des bus nettoyages pour l'entreprise Tec
                 </p>
             </div>
             <div className="exp-2">
                 <h4>Technicien - service technique</h4>
                 <h5>2017-2018</h5>
                 <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, ea dolores velit ullam, quod laboriosam consectetur a facere id excepturi voluptates perferendis qui, quae eius quibusdam harum quaerat atque nesciunt.
-                </p>
+                    Gestion de stock et gérance de des différents outils et produits du service.
+                 </p>
+            </div>
+            <div className="exp-3">
+                <h4>Préparateur de commande</h4>
+                <h5>2013-2016</h5>
+                <p>
+                    Préparation des différent colis , chargement et déchargement.
+                 </p>
             </div>
         </div>
     )

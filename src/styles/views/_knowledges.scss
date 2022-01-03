@@ -113,7 +113,8 @@
         grid-template-areas: 
           "1"
           "2"
-          "3";
+          "3"
+          "4";
         
         h3 {
           grid-area: 1;
@@ -136,6 +137,9 @@
         .exp-2 {
           grid-area: 3;
         }
+        .exp-3 {
+          grid-area: 4;
+        }
       }
       .otherSkills {
         grid-area: O;
@@ -149,9 +153,9 @@
           justify-content: space-between;
   
           ul {
-            height: 80%;
-            display: grid;
-  
+            height: 80%;            
+            display: block;
+            padding: 30px;
             i {
               color: $color-5;
             }
