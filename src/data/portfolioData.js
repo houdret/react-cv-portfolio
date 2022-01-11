@@ -1,21 +1,21 @@
 export const portfolioData = [
   {
     id: 1,
-    name: 'ipsum.com',
+    name: 'Clicker',
     languages: ['javascript','css'],
     languagesIcons: ['fab fa-js','fab fa-css3-alt'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project1.JPG'
+    source: 'https://github.com/houdret/Clicker.git',
+    info: "Création d'un petit jeu fait en javascript en équipe",
+    picture: './media/project1.png'
   },
   {
     id: 2,
-    name: 'lorem.fr',
-    languages: ['javascript','react'],
-    languagesIcons: ['fab fa-js','fab fa-react'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project2.JPG'
+    name: 'Moviebrowser',
+    languages: ['javascript','react','css'],
+    languagesIcons: ['fab fa-js','fab fa-react','fab fa-css3-alt'],
+    source: 'https://github.com/houdret/movieBrowser.git',
+    info: 'Création moviebrower avec react et TMDB API ',
+    picture: './media/project2.png'
   },
   {
     id: 3,
@@ -31,7 +31,7 @@ export const portfolioData = [
     name: 'Design',
     languages: ['javascript','php','css'],
     languagesIcons: ['fab fa-js','fab fa-php','fab fa-css3-alt'],
-    source: 'http://www.github.com',
+    source: '',
     info: 'Première réalisation en Design et javasript css ',
     picture: './media/project4.png'
   },
@@ -40,7 +40,7 @@ export const portfolioData = [
     name: 'Pixel Juice',
     languages: ['javascript','css'],
     languagesIcons: ['fab fa-js', 'fab fa-css3-alt'],
-    source: 'http://www.github.com',
+    source: '',
     info: "Création d'un modèle de site créé avec photoshop pour mise en page",
     picture: './media/project5.png'
   },
